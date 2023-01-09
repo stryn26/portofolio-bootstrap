@@ -1,0 +1,10 @@
+:root{
+    --mainColor:#252734;
+    --secondery: #333646;
+    --acsentColor:#FF9100;
+}
+body{
+    background-color:var(--mainColor);
+    max-width: 900px;
+    font-family: 'ubuntu', sans-serif;
+}
