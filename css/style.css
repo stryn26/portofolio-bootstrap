@@ -91,4 +91,31 @@ hr{
     width: 12%;
     margin: 10px;
 }
+#skill .card{
+    background-color: #414558;
+    height: 340px;
+}
+#skill .card:hover{
+    background-color: var(--acsentColor);
+}
+.skill-content{
+    margin-top: 120px;
+}
 /* end skill */
+/* sertifikat */
+#sertifikat{
+margin-top: -170px;
+padding: 270px;
+padding-bottom: 80px;
+background-color: var(--secondery);
+}
+#sertifikat p,a{
+color: #fff !important;
+text-decoration: none;
+}
+#sertifikat img{
+    width: 49%;
+    padding: 10px;
+}
+
+/* end sertifikat */
