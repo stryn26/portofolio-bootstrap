@@ -98,12 +98,12 @@ hr{
     color: #fff;
 }
 #skill img{
-    width: 12%;
+    width: 8%;
     margin: 10px;
 }
 #skill .card{
     background-color: #414558;
-    height: 340px;
+    height: 350px;
 }
 #skill .card:hover{
     background-color: var(--acsentColor);
@@ -134,5 +134,8 @@ hr{
 #portofolio .container{
     padding: 80px 10px;
 
+}
+#portofolio img{
+   width: 100%;
 }
 /* end portofolio */
