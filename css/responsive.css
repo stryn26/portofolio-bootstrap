@@ -44,7 +44,7 @@
     font-size: .8rem;
    }
 }
-@media screen and (max-width:390px){
+@media screen and (max-width:430px){
     #portofolio .col-md-12{
         flex-direction: column;
     }
